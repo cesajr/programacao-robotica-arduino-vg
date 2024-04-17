@@ -12,8 +12,8 @@ Repositório para envio de atividades dos estudantes da disciplina de Programaç
 
 ### Criar uma Pasta com o Nome do Aluno:
 1. Navegue até o diretório clonado e crie uma nova pasta com o seu nome:
-   cd programacao-robotica-arduino-vg
-   mkdir NomeSobrenome
+   `cd programacao-robotica-arduino-vg`
+   `mkdir NomeSobrenome`
 Substitua `NomeSobrenome` pelo seu nome.
 
 ### Adicionar Códigos à Pasta do Aluno:
